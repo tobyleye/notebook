@@ -1,1 +1,1 @@
-web: gunicorn notebook:app
+web gunicorn app:app
